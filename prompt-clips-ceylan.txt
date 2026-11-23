@@ -1,0 +1,10 @@
+Télécharge ces 4 vidéos YouTube avec yt-dlp (installe yt-dlp et ffmpeg si besoin), puis fais un clip TikTok d'1 minute de chacune avec ffmpeg :
+- format vertical 1080x1920
+- choisis la meilleure minute centrée sur Ceylan
+- ajoute un titre accrocheur à l'écran
+- enregistre les 4 MP4 dans ce dossier (clip1.mp4 à clip4.mp4)
+
+1. https://www.youtube.com/watch?v=arru7OiAvig
+2. https://www.youtube.com/watch?v=lpNSIUIVfSM
+3. https://www.youtube.com/watch?v=x8t0kDFQAug
+4. https://www.youtube.com/watch?v=JSVWMX7z8TA
